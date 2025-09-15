@@ -17,6 +17,7 @@ struct ContentView: View {
                 .font(.headline)
                 .foregroundStyle(.blue)
                 .fontWeight(.bold)
+            Text("Click")
         }
         .padding()
         Button("Subcrible Now") {
